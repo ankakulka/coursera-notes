@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coursera Notes Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Coursera Notes Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>You</copyright><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post1</title>
+      <link>http://example.org/post1/</link>
+      <pubDate>Mon, 26 Dec 2022 18:20:11 +0100</pubDate>
+      
+      <guid>http://example.org/post1/</guid>
+      <description>Pretend that a genius in your ﬁeld told you that the thing you just picked is a good metaphor for an item/word/concept you’re working on. Come up with an explanation for how the thing you picked is a good metaphor. For example, a plant is a great metaphor for a word processor because… they both grow over time (a word processor grows when you add new features), they both need to be taken care of (for a word processor you have to be sure to provide support for the users and ﬁx bugs in the programming).</description>
+    </item>
+    
+  </channel>
+</rss>
